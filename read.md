@@ -2,7 +2,7 @@
 
 ##  Steps to Run the Program
 
-1. Install Python  in pycharm or vscode (i have done on both )
+1. i made my project in python which possibliy runs on every available IDE's (i have tested on pycharm ans vs code )...
 2. Install matplotlib:
    pip install matplotlib  (imp otherwise code will not run )   # I have added this feature by myself ..
 3. Keep these files in same folder:
@@ -83,4 +83,4 @@ It makes the output easier to understand.
 
 #  Conclusion
 
-This aasignment helps me to  understand the implementation of code in real lifeand its  usage and how  to make things easy to understand and implment .....
+This aasignment helps me to  understand the implementation of code in real lifeand its  usage and how  to make things easy to understand and impelment .....
