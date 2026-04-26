@@ -7,8 +7,8 @@
    pip install matplotlib  (imp otherwise code will not run )
 3. Keep these files in same folder:
 
-   * log_analyzer.py
-   * logs.txt
+   * logprocessor.py
+   * log.txt
 4. Open terminal in that folder
 5. Run:
    python log_analyzer.py
