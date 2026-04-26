@@ -2,7 +2,7 @@
 
 ##  Steps to Run the Program
 
-1. i made my project in python which possibliy runs on every available IDE's (i have tested on pycharm ans vs code )...
+1. I made my project in python which possibliy runs on every available IDE's (I have tested on pycharm ans vs code )...
 2. Install matplotlib:
    pip install matplotlib  (imp otherwise code will not run )   # I have added this feature by myself ..
 3. Keep these files in same folder:
