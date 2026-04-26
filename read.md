@@ -4,14 +4,14 @@
 
 1. Install Python  in pycharm or vscode (i have done on both )
 2. Install matplotlib:
-   pip install matplotlib  (imp otherwise code will not run )
+   pip install matplotlib  (imp otherwise code will not run )   # I have added this feature by myself ..
 3. Keep these files in same folder:
 
    * logprocessor.py
    * log.txt
 4. Open terminal in that folder
 5. Run:
-   python log_analyzer.py
+   python logprocessor.py
 
 Output will be shown and graph will be shown 
 
@@ -19,7 +19,7 @@ Output will be shown and graph will be shown
 
 ##  Logic
 
-I started by testing small parts like reading the file and counting logs.
+I started by testing small parts like reading the file and counting logs which i have done on pycharm i have added screenshot for each test which i have done .
 After that, I combined everything into one program.
 
 The program reads the file line by line.
@@ -42,8 +42,7 @@ I used: (which i revised  first )
 ## Enhancement
 
 I added a graph using matplotlib.
-
-This shows:
+which shows:
 
 * ERROR count
 * INFO count
@@ -67,15 +66,15 @@ It makes the output easier to understand.
 ## Assumptions
 
 * Log format is same everywhere
-* ERROR / INFO / WARNING always exist
+* ERROR / INFO / WARNING all three exist always 
 * "driver unavailable" = booking failure
 * "No return load" = empty truck
 * Routes are like Delhi-Mumbai
-* orderId format is orderId=XXXX
+* orderId format is always in orderId=XXXX
 
 
 
-## Limitations
+## Limitations (these are enhancement i have not done )
 
 * Command line input not added
 * Large file handling is basic
@@ -84,4 +83,4 @@ It makes the output easier to understand.
 
 #  Conclusion
 
-This project helped me understand log analysis and how to extract useful data using Python.
+This aasignment helps me to  understand the implementation of code in real lifeand its  usage and how  to make things easy to understand and implment .....
